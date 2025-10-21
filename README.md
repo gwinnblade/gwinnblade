@@ -1,4 +1,4 @@
 # DIEINAGXNY
 
-![dear-gatekeeper](./tenor.gif)
+![dear-gatekeeper](./mine.png)
 
